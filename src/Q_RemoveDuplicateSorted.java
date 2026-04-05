@@ -1,3 +1,5 @@
+// Day 9 - 2nd of April 2026 - Prob #17
+
 public class Q_RemoveDuplicateSorted {
     public static void main(String[] args) {
         int[] arr = {0,0,1,1,1,2,2,3,3,4};

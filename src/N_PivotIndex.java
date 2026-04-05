@@ -1,4 +1,4 @@
-// Day 5- 26th of March 2026 - Prob #12
+// Day 5- 26th of March 2026 - Prob #14
 
 public class N_PivotIndex {
     public static void main(String[] args) {
