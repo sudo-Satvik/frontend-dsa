@@ -1,4 +1,4 @@
-// Day 12 - 6th of April 2026 - Prob #23
+// Day 12 - 7th of April 2026 - Prob #23
 
 public class X_MinSubArrayLen {
     public static void main(String[] args) {
